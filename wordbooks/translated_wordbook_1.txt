@@ -1,0 +1,123 @@
+Word Group 1: 
+affiliate: 附属公司
+Word Group 2: 
+doze: 瞌睡
+Word Group 3: 
+pluralism : 多元主义
+Word Group 4: 
+revere: 尊敬
+Word Group 5: 
+crop: 庄稼
+Word Group 6: 
+dissolve: 溶解
+Word Group 7: 
+aria: 咏叹调
+melody: 旋律
+Word Group 8: 
+clay: 粘土
+Word Group 9: 
+stylized: 程式化的
+Word Group 10: 
+feudal: 封建
+Word Group 11: 
+flourish: 繁荣
+Word Group 12: 
+hoof: 蹄
+Word Group 13: 
+stumble: 绊倒
+Word Group 14: 
+coincide: 重合
+Word Group 15: 
+facilitate: 促进
+impulse: 冲动
+Word Group 16: 
+lure: 饵
+Word Group 17: 
+hail: 冰雹
+Word Group 18: 
+topography : 地形
+Word Group 19: 
+silt: 淤泥
+delta: 三角洲
+clog: 阻塞
+Word Group 20: 
+strain: 拉紧
+Word Group 21: 
+disproportionate: 不成比例的
+Word Group 22: 
+district: 区
+Word Group 23: 
+sparse: 疏
+Word Group 24: 
+engulf: 吞噬
+Word Group 25: 
+apprenticeship: 学徒制
+Word Group 26: 
+seep: 渗透
+ooze: 软泥
+seepage: 渗漏
+Word Group 27: 
+husk: 外壳
+Word Group 28: 
+nosy: 爱管闲事
+inquisitive: 好奇
+Word Group 29: 
+peripheral: 外围设备
+Word Group 30: 
+unbound: 未绑定
+Word Group 31: 
+compel: 迫使
+expel: 驱逐
+dispel: 打消
+impel: 促使
+repel: 击退
+bead: 珠子
+Word Group 32: 
+saucy: 俏皮
+Word Group 33: 
+floral: 花的
+Word Group 34: 
+influx: 涌入
+Word Group 35: 
+embrace: 拥抱
+Word Group 36: 
+enact: 制定
+Word Group 37: 
+secrete: 分泌
+excrete: 排泄
+Word Group 38: 
+underscore: 下划线
+Word Group 39: 
+constitute: 构成
+Word Group 40: 
+volcanic: 火山
+Word Group 41: 
+patriot: 爱国者
+fervent: 热切
+patriotic: 爱国
+patriotism: 爱国主义
+Word Group 42: 
+chaotic: 混乱的
+Word Group 43: 
+constrain: 约束
+confine: 局限
+constraint: 约束
+Word Group 44: 
+subversive: 颠覆性的
+Word Group 45: 
+converse: 交谈
+Word Group 46: 
+sphere: 领域
+Word Group 47: 
+obliterate: 泯
+Word Group 48: 
+expel: 驱逐
+impel: 促使
+compel: 迫使
+repel: 击退
+dispel: 打消
+Word Group 49: 
+molecular: 分子
+Word Group 50: 
+rancher: 牧场主
+rodeos: 牛仔竞技表演

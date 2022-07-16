@@ -1,0 +1,120 @@
+Word Group 1: 
+subversive: 颠覆性的
+Word Group 2: 
+perpetual: 永动的
+Word Group 3: 
+unethical: 不道德的
+Word Group 4: 
+district: 区
+Word Group 5: 
+saucy: 俏皮
+Word Group 6: 
+husk: 外壳
+Word Group 7: 
+affiliate: 附属公司
+Word Group 8: 
+tide sb over: 渡过难关
+tidal : 潮汐
+Word Group 9: 
+coincide: 重合
+Word Group 10: 
+atomization: 雾化
+Word Group 11: 
+emanate: 发出
+emanate from: 发源于
+Word Group 12: 
+volcanic: 火山
+Word Group 13: 
+pastel: 粉彩
+bland: 平淡无奇
+Word Group 14: 
+hoof: 蹄
+Word Group 15: 
+rancorous: 恶毒的
+Word Group 16: 
+constrain: 约束
+confine: 局限
+constraint: 约束
+Word Group 17: 
+engulf: 吞噬
+Word Group 18: 
+aria: 咏叹调
+melody: 旋律
+Word Group 19: 
+stylized: 程式化的
+Word Group 20: 
+sulfuric: 硫酸
+Word Group 21: 
+sphere: 领域
+Word Group 22: 
+withhold: 扣压
+Word Group 23: 
+obliterate: 泯
+Word Group 24: 
+feudal: 封建
+Word Group 25: 
+nominee: 被提名人
+Word Group 26: 
+secrete: 分泌
+excrete: 排泄
+Word Group 27: 
+recital: 独奏会
+Word Group 28: 
+peripheral: 外围设备
+Word Group 29: 
+feeble: 微弱
+Word Group 30: 
+flourish: 繁荣
+Word Group 31: 
+floral: 花的
+Word Group 32: 
+dissolve: 溶解
+Word Group 33: 
+sprain: 扭伤
+Word Group 34: 
+embrace: 拥抱
+Word Group 35: 
+molecular: 分子
+Word Group 36: 
+prevailing: 盛行的
+basin: 盆地
+Word Group 37: 
+hydroelectric: 水电
+Word Group 38: 
+discipline: 纪律
+drill: 钻头
+disciplined: 纪律严明
+Word Group 39: 
+scroll: 滚动
+Word Group 40: 
+expel: 驱逐
+impel: 促使
+compel: 迫使
+repel: 击退
+dispel: 打消
+Word Group 41: 
+intestinal: 肠
+Word Group 42: 
+stumble: 绊倒
+Word Group 43: 
+hail: 冰雹
+Word Group 44: 
+seep: 渗透
+ooze: 软泥
+seepage: 渗漏
+Word Group 45: 
+reef: 礁
+coral: 珊瑚
+Word Group 46: 
+unprecedented: 空前的
+precedent: 先例
+unexampled: 没有例子
+Word Group 47: 
+rancher: 牧场主
+rodeos: 牛仔竞技表演
+Word Group 48: 
+exposition: 博览会
+Word Group 49: 
+forum: 论坛
+Word Group 50: 
+converse: 交谈
