@@ -78,6 +78,9 @@ def generate_wordbook(word_num: int, flag_random: bool, select_start_pos: int, s
     #translated_wordbook generate
 
 def get_max_index_exist() -> int:
+    """
+    Get the largest index of the existed wordbooks, return the largest index plus 1
+    """
     path_wordbook = Path.cwd() / 'wordbooks'
     if not path_wordbook.exists():
         path_wordbook.mkdir()
