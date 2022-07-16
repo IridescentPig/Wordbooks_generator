@@ -9,15 +9,15 @@
 本项目根据用户提供的 ``` ./collection.txt``` 生成指定的单词本，其中 ``` ./collection.txt``` 的格式要求如下：
 
 ```latex
-word_1 word_2 word_3 ... word_n
+word_1, word_2, word_3, ... , word_n
 
-word_1 word_2 ... word_m
+word_1, word_2, ... , word_m
 
-word_1 word_2 ... word_k
+word_1, word_2, ... , word_k
 ...
 ```
 
-即每行有若干个单词（可以只有一个单词），单词间以一个空格隔开，每行的单词称为一个词组，词组间以一个空行隔开。
+即每行有若干个单词（可以只有一个单词），单词间以 ```', '``` 隔开，每行的单词称为一个词组，词组间以一个空行隔开。
 
 ## 单词本说明
 
